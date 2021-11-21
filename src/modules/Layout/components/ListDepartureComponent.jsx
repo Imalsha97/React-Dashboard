@@ -72,7 +72,7 @@ class ListDepartureComponent extends Component {
          <section className="p-3">
              <div className="container">
                  <div className="row">
-                     <div className="col-md-9">
+                     <div className="col-md-10">
                          <div className="card">
                              <div className="card-header bg-secondary">
                                  <div className="row">
@@ -130,7 +130,7 @@ class ListDepartureComponent extends Component {
                          </div>
 
                      </div>
-                     <div className="col-md-3">
+                     <div className="col-md-2">
                          <div className="card">
                              <div className="card-header bg-primary text-white">
                                  <div className="row align-items-center">
