@@ -1,0 +1,9 @@
+.bg-teal , .btn-teal {
+    background-color: #2B6ED3 !important;
+}
+.text-teal {
+    color:#2B6ED3 !important;
+}
+.bg-primary , .btn-primary{
+    background-image: linear-gradient(to right top, #2b6ed3, #3c76d1, #4b7ecf, #5986cc, #678ec9);
+}
